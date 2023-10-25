@@ -8,7 +8,7 @@ Hi there! 👋 I'm Antony Lu
 Skills
 I have experience in a wide range of technologies, including:
 
-React, Redux, C, JavaScript, C++, Python
+C, JavaScript, C++, Python
 
 Connect with me
 You can find me on GitHub and LinkedIn:
