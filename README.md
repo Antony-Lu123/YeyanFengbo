@@ -1,5 +1,5 @@
-Hi there! 👋 I'm Antony Lu
-👨‍💻 Software Engineer| 🌍 based in New York City
+Hi there! 👋 I'm Antony Lu 
+👨‍💻 Web Developer & Software Engineer| 🌍 based in New York City
 
 🎓 Education: Hunter College
 
@@ -8,7 +8,13 @@ Hi there! 👋 I'm Antony Lu
 Skills
 I have experience in a wide range of technologies, including:
 
-C, JavaScript, C++, Python
+HTML5, C, JavaScript, C++, Python
 
 Connect with me
 You can find me on GitHub and LinkedIn:
+
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub)](https://github.com/DavidA123777)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-abushlaih/)
+
+Checkout my Website
+[![Portfolio](https://img.shields.io/badge/%20Portfolio-gray?style=for-the-badge)](https://davida123777.github.io/Portfolio-Website/index.html)
