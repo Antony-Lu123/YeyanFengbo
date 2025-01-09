@@ -3,7 +3,7 @@ Hi there! 👋 I'm Antony Lu
 
 🎓 Education: Hunter College
 
-⚡ Fun fact: I love Soccer, Calisthenics, and Music!
+⚡ Fun fact: 
 
 Skills
 I have experience in a wide range of technologies, including:
